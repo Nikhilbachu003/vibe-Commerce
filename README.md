@@ -49,21 +49,7 @@ A modern, full-stack e-commerce application built with React.js, Express.js, and
 - RESTful API
 
 ## 📦 Project Structure
-vibe-commerce/
-├── backend/
-│ ├── server.js
-│ ├── database.js
-│ ├── routes/
-│ ├── models/
-│ └── vibe_commerce.db
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── styles/
-│ │ └── App.js
-│ └── public/
-└── README.md
+ ![Structure](https://github.com/Nikhilbachu003/vibe-Commerce/blob/main/Screenshot%202025-10-31%20015358.png)
 
 text
 
